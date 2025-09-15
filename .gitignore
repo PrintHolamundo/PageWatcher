@@ -1,0 +1,27 @@
+# Entornos virtuales
+venv/
+env/
+.env
+
+# Archivos compilados de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de logs
+*.log
+
+# Configuración de IDE
+.vscode/
+.idea/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Pipenv / Poetry
+Pipfile.lock
+poetry.lock
+
+# Archivos de PyCharm específicos
+*.iml
