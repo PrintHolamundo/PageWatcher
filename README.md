@@ -1,4 +1,4 @@
-# WebPageUp
+# PageWatcher
 
 Script en **Python** para monitorear una página web y enviar notificaciones por **Telegram** cuando esté en línea.  
 Además, puede mandar recordatorios cada cierto tiempo y detenerse cuando recibe el comando `stop`.
@@ -28,7 +28,7 @@ Clona el repositorio o copia los archivos en tu máquina:
 
 ```bash
 git clone https://github.com/PrintHolamundo/PageWatcher.git
-cd WebPageUp
+cd PageWatcher
 ```
 Instala las dependencias:
 ```bash
