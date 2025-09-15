@@ -27,7 +27,7 @@ Además, puede mandar recordatorios cada cierto tiempo y detenerse cuando recibe
 Clona el repositorio o copia los archivos en tu máquina:
 
 ```bash
-git clone https://github.com/tu-usuario/WebPageUp.git
+git clone https://github.com/PrintHolamundo/PageWatcher.git
 cd WebPageUp
 ```
 Instala las dependencias:
